@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "482273548380",
+    "project_id": "uploadmultiplevideos",
+    "storage_bucket": "uploadmultiplevideos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482273548380:android:4ec101e62f793781eaae99",
+        "android_client_info": {
+          "package_name": "com.example.uploadmultiplevideos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482273548380-2sj4i1hamiiugvc4prtkf76d6u5cq9q9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uploadmultiplevideos",
+            "certificate_hash": "5fb1078327ffd7ee12af659b3c109cd649897f4c"
+          }
+        },
+        {
+          "client_id": "482273548380-5m4mmr87qpo84cmjtbjecg35mmn5u081.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFXYCbmNS7GydurCbfZ8D3_M2-qgdujkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482273548380-5m4mmr87qpo84cmjtbjecg35mmn5u081.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
